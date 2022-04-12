@@ -4,5 +4,6 @@ class Hello{
 		System.out.println("hello 37");
 		System.out.println("1");
 		System.out.prinltn("2");
+		System.out.println("3");
 	}
 }
